@@ -63,7 +63,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: url('images/imagen1.jpg') center/cover no-repeat;
+    background: url('imagen1.jpg') center/cover no-repeat;
     min-height: 430px;
     padding: 48px 0;
     position: relative;
@@ -126,7 +126,7 @@ body {
 .intro-img {
     width: 350px;
     height: 250px;
-    background: url('images/imagen2.png') center/cover no-repeat, var(--accent3);
+    background: url('imagen2.png') center/cover no-repeat, var(--accent3);
     border-radius: 16px;
 }
 
